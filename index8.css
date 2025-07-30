@@ -1,0 +1,42 @@
+.header{
+    text-align: center;
+    background-color: brown;
+    height: 150px;
+}
+.content img{
+    margin-top: 10px;
+    margin-right: 100px;
+}
+.menu {
+    background-color: coral ;
+    height: 40px;
+}
+.menu ul {
+    margin: 0;
+}
+.menu li {
+    display: inline-block;
+    margin: 10px;
+    padding-right: 30px;
+}
+.menu ul a {
+    background-color: rgb(141, 91, 73);
+    text-decoration: none;
+    margin-bottom: 5px;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+}
+.menu ul a:hover {
+    background-color: rgb(26, 8, 2);
+}
+.menu li:active{
+    position: relative;
+    top: 3px;
+}
+.text-scroll {
+    background-color: black;
+    color: white;
+    width: 100%;
+    
+}

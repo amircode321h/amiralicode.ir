@@ -1,0 +1,137 @@
+.header {
+    
+background-color: rgb(69, 155, 126);
+height: 140px;
+}
+.header h1 {
+text-align: center;
+color: white;
+    
+}
+.header p {
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+.text-scroll {
+    background-color: black;
+    color: white;
+    width: 100%;
+    
+}
+.content {
+    box-shadow: 0 1px 1em rgba(0,0,0,.2);
+    height: 100%;
+    width: 100%;
+    border: 3px solid black;
+    margin-top: 10px;
+
+}
+.content h1 {
+    text-align: center;
+    border-bottom: 3px solid black;
+    
+
+}
+
+
+.content p{
+    font-size: 40px;
+    text-align: center;
+    border-bottom: 3px solid black;
+    
+}
+.menu {
+    background-color: coral ;
+    height: 40px;
+}
+.menu ul {
+    margin: 0;
+}
+.menu li {
+    display: inline-block;
+    margin: 10px;
+    padding-right: 30px;
+}
+.menu ul a {
+    background-color: rgb(141, 91, 73);
+    text-decoration: none;
+    margin-bottom: 5px;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+}
+.menu ul a:hover {
+    background-color: rgb(26, 8, 2);
+}
+.menu li:active{
+    position: relative;
+    top: 3px;
+}
+.gmail  {
+    background-color: rgb(151, 94, 52);
+    text-align: center;
+}
+.footer {
+    background-color: aquamarine;
+    width: 100%;
+    height: 50px;
+
+}
+.footer h2 {
+    float: right;
+}
+.footer li {
+display: inline-block;
+margin: 10px;
+padding-right: 30px;
+}
+.footer ul a {
+    background-color: rgb(11, 59, 43);
+    text-decoration: none;
+    margin-bottom: 5px;
+    color: white;
+    padding: 5px;
+    border-radius: 4px;
+}
+.footer ul a:hover {
+    background-color: rgb(1, 17, 17);
+}
+.footer li:hover {
+    position: relative;
+    top: 4px;
+}
+.content img {
+    width: 100px;
+    height: 100px;
+}
+.content {
+    box-shadow: 0 1px 1em rgba(0,0,0,.2);
+    height: 100%;
+    width: 100%;
+    margin-top: 10px;
+
+}
+
+
+.content li {
+    display: inline-block;
+
+}
+.content ul img {
+    background-color: rgb(11, 59, 43);
+    text-decoration: none;
+    margin-bottom: 5px;
+    color: white;
+    padding: 5px;
+    margin-top: 150px;
+
+    
+}
+.content ul img :hover{
+background-color: rgb(80, 69, 69);
+}
+.content li :active {
+       position: relative;
+    top: 4px;
+}
